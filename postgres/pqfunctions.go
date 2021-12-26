@@ -36,6 +36,8 @@ import (
 	"errors"
 	"fmt"
 	"strings"
+
+	_ "github.com/lib/pq"
 )
 
 /*
